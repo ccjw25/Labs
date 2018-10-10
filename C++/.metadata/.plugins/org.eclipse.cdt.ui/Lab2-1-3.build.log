@@ -1,0 +1,9 @@
+09:30:36 **** Rebuild of configuration Debug for project Lab2-1-3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lab2-1-3.o" "..\\src\\Lab2-1-3.cpp" 
+g++ -o Lab2-1-3.exe "src\\Lab2-1-3.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Lab2-1-3.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+09:30:37 Build Failed. 1 errors, 0 warnings. (took 646ms)
+

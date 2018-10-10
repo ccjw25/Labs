@@ -1,0 +1,6 @@
+09:28:33 **** Clean-only build of configuration Debug for project Lab2-1-1 ****
+rm -rf src/Lab2-1-1.d Lab2-1-1.exe src/Lab2-1-1.o 
+rm: cannot remove `Lab2-1-1.exe': Permission denied
+
+09:28:33 Build Finished. 0 errors, 0 warnings. (took 624ms)
+

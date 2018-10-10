@@ -1,0 +1,9 @@
+Info: Nothing to build for Lab2-3-9
+09:07:25 **** Incremental Build of configuration Debug for project Lab2-3-9 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lab2-3-9.o" "..\\src\\Lab2-3-9.cpp" 
+g++ -o Lab2-3-9.exe "src\\Lab2-3-9.o" 
+Info: Nothing to build for Lab2-3-9
+Info: Nothing to build for Lab2-3-9
+Info: Nothing to build for Lab2-3-9
+Info: Nothing to build for Lab2-3-7
